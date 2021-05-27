@@ -14,7 +14,9 @@ What did I change
 - [ ] Checked that new 3rd party dependencies are appropriately licensed
 - [ ] Added comments explaining the "why" and the intent of the code wherever it would not be obvious for an unfamiliar reader
 - [ ] Added unit tests or modified existing tests to cover new code paths
-- [ ] Tested new/updated components in the UI
+- [ ] Tested new/updated components in the UI and at runtime in an Interlok instance
+- [ ] Reviewed java class members so that missing annotations are added (InputFieldDefault/ComponentProfile etc)
+- [ ] Checked that javadoc generation doesn't report errors
 - [ ] Checked the display of the component in the UI
 
 ## Result
