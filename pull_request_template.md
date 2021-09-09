@@ -10,8 +10,9 @@ What did I change
 
 - [x] been self-reviewed.
 - [ ] Added javadocs for most classes and all non-trivial methods
-- [ ] Added supporting annotations (like XStreamAlias / ComponentProfile)
+- [ ] Added supporting annotations (like @XStreamAlias / @ComponentProfile)
 - [ ] Added DefaultValue annotation when there is a default value (e.g. @DefaultValue('true'))
+- [ ] Added validation annotation (@NotNull...) when required and add @Valid when nested class has some validation
 - [ ] Checked that new 3rd party dependencies are appropriately licensed
 - [ ] Added comments explaining the "why" and the intent of the code wherever it would not be obvious for an unfamiliar reader
 - [ ] Added unit tests or modified existing tests to cover new code paths
