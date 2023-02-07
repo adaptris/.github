@@ -22,6 +22,7 @@ What did I change
 - [ ] Checked that javadoc generation doesn't report errors
 - [ ] Checked the display of the component in the UI
 - [ ] Remove any config/license annotations
+- [ ] Check the gradle build file to make sure the dependencies section is more explicit "implementation/api".
 
 ## Result
 
