@@ -21,6 +21,7 @@ What did I change
 - [ ] Reviewed java class members so that missing annotations are added (InputFieldDefault/ComponentProfile etc)
 - [ ] Checked that javadoc generation doesn't report errors
 - [ ] Checked the display of the component in the UI
+- [ ] Remove any config/license annotations
 
 ## Result
 
